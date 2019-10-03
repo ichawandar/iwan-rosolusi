@@ -1,3 +1,4 @@
 IWAN RESOLUSI
 -Konsisiten Belajar Pemograman Web
 -Konsisiten Belajar Pemograman Mobile
+-Menggunakan Flutter sebagai framework
